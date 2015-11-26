@@ -1,4 +1,5 @@
 // Pętla for
+//druga linia
 
 #include <stdio.h>
 #include <conio.h>
